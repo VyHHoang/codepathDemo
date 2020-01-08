@@ -3,7 +3,7 @@
 ## codepathDemo
 
 ### App Description
-'A simple app with a label and and button to change the color of the label' 
+A simple app with a label and and button to change the color of the label 
 
 ### App Walk-though
 <img src="http://g.recordit.co/B0PkZlWS4f.gif" width=200><br>
